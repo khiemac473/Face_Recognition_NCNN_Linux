@@ -1,4 +1,4 @@
-# Face_Recognition_NCNN_CPP
+# Face_Recognition_NCNN_Linux
 
 📌 **Realtime Face Recognition using NCNN and C++ on Linux**
 
